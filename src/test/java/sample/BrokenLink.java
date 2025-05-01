@@ -36,6 +36,8 @@ public class BrokenLink {
 					System.out.println("Valid Url :"+attribute);
 				}
 			}
+			
 		}
+		driver.quit();
 	}
 }
