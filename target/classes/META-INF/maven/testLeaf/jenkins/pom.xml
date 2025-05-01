@@ -27,7 +27,6 @@
 <plugins>
 <plugin>
 <!-- https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-compiler-plugin -->
-
 <groupId>org.apache.maven.plugins</groupId>
 <artifactId>maven-compiler-plugin</artifactId>
 <version>3.14.0</version>
@@ -35,10 +34,7 @@
 <source>17</source>
 <target>17</target>
 </configuration>
-
 <!-- https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-surefire-plugin -->
-
-
 </plugin>
 <plugin>
 <groupId>org.apache.maven.plugins</groupId>
