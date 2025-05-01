@@ -42,7 +42,7 @@
 <configuration>
 <suiteXmlFiles>
 <suiteXmlFile>testng.xml</suiteXmlFile>
-<suiteXmlFile>testng_1.xml</suiteXmlFile>
+<suiteXmlFile>parallelExecution.xml</suiteXmlFile>
 </suiteXmlFiles>
 </configuration>
 
