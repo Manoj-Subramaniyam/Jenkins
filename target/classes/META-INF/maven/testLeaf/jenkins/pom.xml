@@ -42,6 +42,7 @@
 <configuration>
 <suiteXmlFiles>
 <suiteXmlFile>testng.xml</suiteXmlFile>
+<suiteXmlFile>testng_1.xml</suiteXmlFile>
 </suiteXmlFiles>
 </configuration>
 
